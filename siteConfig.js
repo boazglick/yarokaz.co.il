@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://vilaneto.co.il", // Site domain. Do not include a trailing slash!
+  siteUrl: "http://yarokaz.co.il", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "vilaneto", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "yarokaz", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "lemexico", // This allows an alternative site description for meta data for pages.
+    "yarokaz", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "vilaneto", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "yarokaz", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "vilaneto",
+    title: "yarokaz",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://vilaneto.co.il/",
+        url: "https://yarokaz.co.il/",
       },
       {
         label: "יצירת קשר",
-        url: "https://vilaneto.co.il/contact",
+        url: "https://yarokaz.co.il/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://vilaneto.co.il/",
+        url: "https://yarokaz.co.il/",
       },
       {
         label: "Sitemap",
-        url: "https://vilaneto.co.il/sitemap.xml",
+        url: "https://yarokaz.co.il/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://vilaneto.co.il/contact",
+        url: "https://yarokaz.co.il/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "vilaneto",
+    title: "yarokaz",
     description:
-      "vilaneto",
+      "yarokaz",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "vilaneto",
+    title: "yarokaz",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "vilaneto",
+  siteTitle: "yarokaz",
   siteDescription:
-    "vilaneto",
+    "yarokaz",
   language: "he",
   logoUrl: "",
   iconUrl: "",
